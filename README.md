@@ -36,9 +36,9 @@ java ToDoApp
 
 ## Screenshots ##
 
-1) Overall UI : ![Overall Output](screenshots/Overalloutput.png)
-2) ToggleDone : ![Toggle Done](screenshots/ToggleDone.png)
-3) Delete Function : 1) ![Delete Step 1](screenshots/delete1.png) 
-                     2) ![Delete Step 2](screenshots/delete2.png)
-4) Load Function : ![Load Feature](screenshots/Load.png)
-5) Save Function : ![Save Feature](screenshots/Save.png)
+1) Overall UI : ![Overall Output](Screenshots/Overalloutput.png)
+2) ToggleDone : ![Toggle Done](Screenshots/ToggleDone.png)
+3) Delete Function : 1) ![Delete Step 1](Screenshots/delete1.png) 
+                     2) ![Delete Step 2](Screenshots/delete2.png)
+4) Load Function : ![Load Feature](Screenshots/Load.png)
+5) Save Function : ![Save Feature](Screenshots/Save.png)
