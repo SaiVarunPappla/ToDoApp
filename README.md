@@ -34,7 +34,7 @@ javac *.java
 java ToDoApp
 ```
 
-## Screnshots ##
+## Screenshots ##
 
 1) Overall UI : [Screenshots](Overalloutput.png)
 2) ToggleDone : [Screenshots](ToggleDone.png)
